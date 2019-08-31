@@ -1,5 +1,10 @@
 # Syndicatebank_hack
 
+## Video Links
+
+
+###### Explanation - https://www.youtube.com/watch?v=4fc1MkeueU8
+###### Demo - https://www.youtube.com/watch?v=K3H3sGFqylo
 
 ## DEMO SCREENSHOTS
 
